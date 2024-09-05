@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</Table>able file </title>
+    <!-- <style>
+ table, th,td{
+             border:1px solid gray 
+ }
+    </style> -->
+</head>
+<body>
+    <div>
+    <h1> table creation </h1>
+    <table border="5 " cellpadding="2">
+        <tr>
+          <th> S.no </th>
+           <th> Names </th>
+           <th> Batch ID </th>
+           <th> Gmail</th>
+        </tr>
+        <tr>
+            <td>  1 </td>
+             <td> saivenkat </td>
+             <td> PFS-12 </td>
+             <td> saivenkat2783@gmail.com</td>
+          </tr>
+          <tr>
+            <td>  2 </td>
+             <td> lokesh </td>
+             <td> PFS-12 </td>
+             <td> lokesh71@gmail.com</td>
+          </tr>
+          <tr>
+            <td>  3 </td>
+             <td> bhanu  </td>
+             <td> PFS-12 </td>
+             <td> bhanuprakash 2003@gmail.com</td>
+          </tr>
+          <tr>
+            <td>  4 </td>
+             <td> balajee  </td>
+             <td> PFS-12 </td>
+             <td> balajee2002@gmail.com</td>
+          </tr>
+          <tr>
+            <td>  5 </td>
+             <td> abhi  </td>
+             <td> PFS-12 </td>
+             <td> abhi789@gmail.com</td>
+          </tr>
+    </table>
+    </div>
+</body>
+</html>
+
+
