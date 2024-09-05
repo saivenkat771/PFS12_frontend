@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div class="container">
+    <h1> heading 1 </h1>
+    <h2> headng  2 </h2>
+    <h3> heading 3 </h3>
+    <h4> heading 4 </h4>
+    <h5> heading 5 </h5>
+    <h6> heading 6 </h6>
+   <p> this is paragraph tag </p>
+     <a href="https://codegnan.com/"> codegnan</a>
+     <button>click me</button>
+     <hr/>
+     <img src="./download.jpeg" alt="logo"/>
+     <div> division : div is a block level  element, and new line and 100% width</div>
+     <hr/>
+     <br/>
+     <span> span is inline  elements and content background space</span>
+     <br/>
+     <section> section is a body semantic element</section>
+     <br/>
+     <footer>footer is semantic elements</footer>
+     <br/>
+     <p> Lorem ipsum  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dolor sit amet consectetur, adipisicing elit.<br/> Eos unde aliquid incidunt accusantium voluptates itaque dignissimos, sit veniam dolorum. Earum, laborum. Amet iure laudantium nulla adipisci, commodi tenetur autem delectus.</p>
+<br/>
+<marquee scroll:left;background-color:red;>helloworld</marquee>
+<i> this is italiic tag</i>
+<mark> this is mark tag</mark>
+<u>this is underline tag</u>
+<small>this is small tag</small>
+<big> this is big tag</big>
+<del>this is delete tag</del>
+
+
+
+  </div>
+</body>
+</html>
