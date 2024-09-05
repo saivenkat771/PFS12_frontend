@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Block Level and Inline Elements </title>
+</head>
+<body>
+    <!-- HTML comment -->
+    <!-- <h1> This is heading  comment </h1>  -->
+    
+    <!-- BLock Level Elements -->
+    <div> This is Divison </div>
+    <a> click </a>
+    <!-- inline elements -->
+    <span> This is span </span>
+    <div></div>
+</body>
+</html>
