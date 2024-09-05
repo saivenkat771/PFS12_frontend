@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>linktagS</title>
+</head>
+<body>
+    <div class="container">
+        <h1>codegnan linktag URL,click Anchor Tag</h1>
+        <a href="https://codegnan.com/"><img src="./photos/logo.jpeg" alt=" codegnan"> <button> click  link</button></a>
+    <br/>
+    <hr/>
+
+        <a href="https://www.amazon.in/"><button> click link</button></a>
+        <br/>
+        <hr/>
+
+        <a href="https://www.flipkart.com/"> <button>click link</button></a>
+    <br/>
+    <hr/>
+      <a href="https://www.myntra.com/"><button> click link</button>  </a>
+    
+      <br/>
+      <hr/>
+      <a href="https://www.zeptonow.com/"><button> click link </button></a>
+    <br/>
+    <hr/>
+      <a href="https://www.zeptonow.com/"><button> click link</button></a>
+
+      <br/>
+      <hr/>
+    </div>
+</body>
+</html>
