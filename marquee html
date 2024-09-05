@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<h1>marquee tag in html </h1>
+<marquee scrollamount="10" bgcolor="yellow" width="100%" direction="right">hello world </marquee>
+
+</body>
+</html>
