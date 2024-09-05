@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic  and Non_semantic </title>
+
+</head>
+<body>
+    <!-- semantic elements -->
+    <heading>
+        <h1> This is heading</h1>
+        <p> This is paragraph </p>
+    
+    </heading>
+    <sessions>
+        <h2> this is session semantic element </h2>
+        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, ab. Animi, libero amet. Pariatur aperiam odio, perferendis error omnis veniam aliquam eaque. Aut tempora unde pariatur iusto consequatur quidem impedit!</p>
+
+<hr/>
+        <!-- NOn-Semantic Elements -->
+        <span> Tis is Non-semantic elements </span>
+</body>
+</html>
