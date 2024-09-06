@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>color</title>
+    <style>
+        a:link{color: blue;}
+        a:visted{color:brown;}
+        a:hover{color: green;}
+        a:active{color: red;}
+    </style>
+</head>
+<body>
+    <h1>
+    <a href="https://www.pythonlife.in/">pythonlife</a></h1>
+</body>
+</html>
+<hr/>
