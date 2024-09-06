@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>selectors file </title>
+</head>
+<body>
+    <style>
+        h1{
+            color: crimson;
+        }
+        </style>
+    <div class="my class">
+<h1> css selectors types</h1>
+   
+    <!-- inline styiling -->
+<p style="color: blue;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto fugit minus tempora enim accusantium voluptas quaerat perferendis, omnis, ut quae sint. Maiores repellat aspernatur possimus magni ex aliquid molestias. Quia.</p></h3>
+    <hr/>
+</div>
+    
+</body>
+</html>
