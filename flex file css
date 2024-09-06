@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>flex file </title>
+    <style>
+        body
+        {
+       .container{
+        display: flex;
+        flex-direction:column;
+        background-color: rgb(188, 231, 231);
+        justify-content: flex-start;
+        height: 100px;;
+        width: auto;
+        /* justify-content: flex-end; */
+        /* justify-content:space-between; */
+        justify-content: space-around;
+        align-items: center;
+        text-align: center;
+        /* align-items: end; */
+        align-items: baseline;
+        /* align-items: normal; */
+        /* align-items: first baseline; */
+        /* align-items: flex-end; */
+        /* align-items: self-end; */
+       }
+       .box
+       {
+        background-color: rgb(38, 83, 50);
+        margin: 5px;
+        text-align: center;
+        
+       }
+       span
+       {
+        background-color: rgb(233, 25, 53);
+       }
+       .box-one
+       {
+        height: 50px;
+        width: 50px;
+        background-color: rgb(0, 23, 128);
+        order: 8;
+        
+       }
+       .box-two
+       {
+        height: 80px;
+        width: 80px;
+        background-color: rgb(238, 159, 13);
+        order: 3;
+       }
+       .box-three
+       {
+        height: 100px;
+        width: 100px;
+        background-color:rgb(202, 32, 165);
+        order: 6;
+
+       }
+       span
+       {
+        order: 2;
+       }
+       
+    </style>
+</head>
+<body>
+    <div class="container">
+<div class="box-one">1</div>
+<div class="box-two">2</div>
+<div class="box-three">3</div>
+    
+    <span>hello span</span>
+
+    </div>  
+</body>
+</html>
