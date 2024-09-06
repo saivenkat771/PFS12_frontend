@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>css positions</title>
+    <style>
+        #myDivision{
+            height: 150px;
+            width: 150px;
+            border: 5px solid rgb(218, 14, 14);
+            background-color: aqua;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        font-size: 1.5rem;
+        position: sticky; */
+        /* position: fixed; */
+        /* position: relative; */
+        /* position: static; */
+        /* position: absolute;
+        top:50px;
+        left: 10%; */
+        /* right: 10%;
+        position:absolute;
+        top: 25px;
+        left: 20%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <center>
+            <h1>PFS12Main Heading</h1>
+        </center>
+        <p id="mypara">Lorem ipsum, dolor sit amet consectetur adipisicing elit. At ut commodi veniam architecto sapiente
+            repellendus aperiam exercitationem ratione! At unde vel expedita veritatis eligendi necessitatibus non ab,
+            voluptatibus perferendis esse?</p>
+            <hr/>
+        <h2> First Heading</h2>
+        <div id="myDivision"> my Division</div>
+        <img id="myImg" src="../my html/download.jpeg">
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt explicabo, vel harum incidunt dolorum quis
+            quidem saepe. Porro dignissimos aliquam alias facere, fugit totam sint eius ullam, autem voluptas dolor?</p>
+        <h2> second Heading</h2>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis odit maxime architecto voluptates
+            consequatur, doloremque quia commodi natus ab, placeat soluta consectetur expedita. Aperiam, odit
+            repudiandae doloribus officia sunt dolorum?</p>
+        <h2> third Heading</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est quod placeat, voluptas error modi inventore
+            excepturi explicabo, cupiditate impedit ex blanditiis laboriosam, dolorem nobis! In adipisci mollitia
+            accusamus facere possimus?</p>
+        <h2> fourth Heading</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel ullam aspernatur temporibus nisi consequatur,
+            pariatur soluta tempora quo animi, dignissimos autem recusandae, fugit voluptate consequuntur necessitatibus
+            eos facere eveniet quos.</p>
+        <h2> fifth Heading</h2>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro temporibus facere soluta incidunt aliquid
+            accusamus veritatis laborum tempora eos? Saepe asperiores sint quibusdam, eveniet perspiciatis ratione
+            praesentium sequi eum facere.</p>
+    </div>
+</body>
+
+</html>
