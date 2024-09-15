@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>resume</title>
+    <h1>Name : Vurimella SaiVenkat MohanKrishna</h1>
+    <h4>Email :saivenkat2783@gmail.com</h4>
+    <h4>mobile No:7780188850</h4>
+    <h4>linked In Id : https://www.linkedin.com/in/saivenkat</h4>
+    <h4>Address:2-8/2/c,Julurpadu(v&m) Near old Theater,Bhadradrikothagudem dist,507166.
+    </h4>
+</head>
+
+<body>
+    <section>
+        <h2>Career objective :</h2>
+        <p>
+            To work on a challenging job profile which provides an opportunity to enhance my technical skills and
+            knowledge, this could provide me an insight into new aspects so that it would be helpful to my career.
+        </p>
+    </section>
+    <section>
+        <div>
+            <ul>
+                <h3> INTERNSHIP</h3>
+                <p> full stack python trainee at codegnan </p>
+            </ul>
+        </div>
+    </section>
+    <section>
+        <div>
+            <ul>
+                <h3>Technical Skills</h3>
+                <li>
+                    React JS
+                </li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Python</li>
+                <li>Django Frame Work
+                </li>
+            </ul>
+        </div>
+    </section>
+    <section>
+        <div>
+            <ul>
+                <h3>Personal Skills</h3>
+                <li>GOOD COMMUNICATION
+                </li>
+                <li>TIME MANAGEMENT</li>
+                <li>WILLINGNESS TO LEARN
+                </li>
+            </ul>
+        </div>
+    </section>
+    <section>
+        <div>
+            <ul>
+                <h3>QUALIFICATION</h3>
+                <table border="1px" style="text-align: center;">
+                    <tr>
+                        <th>LEVEL OF EDUCATION</th>
+                        <th>INSTITUTION</th>
+                        <th>BOARD OF UNIVERSI TY </th>
+                        <th>DURATION</th>
+                        <th>AGGREGATE (IN %)</th>
+                    </tr>
+                    <tr>
+                        <td> B_TECH (EEE)</td>
+                        <td>KLR COLLEGE OF ENINEERING AND TECHONOLOGY</td>
+                        <td>JNTUH</td>
+                        <td>2020-2024</td>
+                        <td>69.89</td>
+                    </tr>
+                    <tr>
+                        <td>INTERMEDIATE (MPC)</td>
+                        <td>SRI NALANDA JR COLLEGE</td>
+                        <td>BOARD OF INTERMEDIATE, TS</td>
+                        <td>2018-2020</td>
+                        <td>95.6</td>
+                    </tr>
+                    <tr>
+                        <td>S.S.C</td>
+                        <td>SRI VIDYA HIGH SCHOLL</td>
+                        <td>BOARD OF SECONDARY EDUCATION,TS</td>
+                        <td>2016-2017</td>
+                        <td>83</td>
+                    </tr>
+                </table>
+            </ul>
+        </div>
+        </div>
+    </section>
+    <section>
+        <div>
+            <ul>
+                <h3>Projects</h3>
+
+                <li>Title-1: IOT BASED WEATHER REPORTING AND MONITORING SYSTEMS.</li>
+                <li>Brief Description: IoT-based weather reporting and monitoring systems utilize interconnected sensors
+                    and devices to provide real-time and comprehensive weather data. These systems deploy a network of
+                    sensors that measure various environmental parameters, including temperature, humidity, wind speed,
+                    and atmospheric pressure. Data from these sensors is transmitted via wireless communication
+                    technologies like Wi-Fi or cellular networks to a central server or cloud-based platform for
+                    processing and analysis.</li>
+                <li>Title - 2: A 4 LEVEL 3 PAHES MULTILEVEL INVERTER IN LOW AND MEDIUM POWER APPLICATONS</li>
+                <li>Brief Description: A 4-level, 3-phase multilevel inverter is an advanced power conversion device
+                    used in low and medium power applications to improve efficiency and performance. This inverter
+                    utilizes four distinct voltage levels to produce a more refined output waveform compared to
+                    traditional two-level inverters. By generating a stepped voltage output with multiple levels, it
+                    minimizes harmonic distortion and reduces the need for extensive filtering, leading to a smoother
+                    and more reliable power supply.
+                </li>
+            </ul>
+
+        </div>
+    </section>
+    <section>
+        <div>
+            <ul>
+                <h3>Personal Details</h3>
+                <li>NAME : V.SAIVENKAT MOHANKRISHNA
+                </li>
+                <li>DATE OF BRITH : 22-08-2001
+                </li>
+                <li>NATIONALITY : INDIAN</li>
+                <li>GENDER : MALE</li>
+                <li>FATHERS NAME : V.PURNACHANDER RAO</li>
+                <li>MOTHERS NAME : V.UMADEVI</li>
+                <li>LANGUAGES KNOWN : ENGLISH, TELUGU,HINDHI</li>
+            </ul>
+        </div>
+    </section>
+    <section>
+        <div>
+            <ul>
+                <h3>HOBBIES</h3>
+
+                <li>Playing Games.
+                </li>
+                <li>Watching movies</li>
+                <LI> Reading books</LI>
+            </ul>
+        </div>
+    </section>
+    <section>
+        <div>
+            <ul>
+                <h3>DECLARATION</h3>
+                <li>I hereby declare that the above information is true to the best of my knowledge and belief.
+                </li>
+                <br />
+                PLACE: HYDERABAD
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VURIMELLA
+                SAIVENKAT MOHANKRISHNA
+
+            </ul>
+        </div>
+    </section>
+</body>
+
+</html>
